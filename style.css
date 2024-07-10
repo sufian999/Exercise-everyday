@@ -1,7 +1,20 @@
-p{
-background-color: blueviolet;  
-}
-img{
-  width: 600px;
+.dinner-life{
+  width: 1320px
   height: 600px;
+  border: 2px solid red;
+  display: flex;
+  justify-content:center;
+  align-items: center;
+}
+.dinner-life img{
+  width: 100px;
+  }
+
+.dinner{
+ margin: 70px;
+ margin-top: 10px;
+}
+.dinner-one{
+margin: 70px;
+
 }
